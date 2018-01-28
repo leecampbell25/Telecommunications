@@ -1,0 +1,1 @@
+In order to test the program please run Setup.java. This will initialise a series of 3 routers, 2 clients (end-points) and a central controller as per example in slides. 
